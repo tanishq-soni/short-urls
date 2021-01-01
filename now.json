@@ -4,6 +4,10 @@
         {
         "source": "/",
         "destination": "https://tanishqsoni.me"
+        },
+        {
+        "source": "/ts",
+        "destination": "https://github.tanishqsoni.me"
         }
     ]
 }
