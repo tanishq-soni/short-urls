@@ -8,10 +8,6 @@
         {
         "source": "/twitter",
         "destination": "https://twitter.com/tanishq_soni_"
-        },
-        {
-            "source": "/hack",
-            "destination": "file:///C:/"
         }
     ]
 }
