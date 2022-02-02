@@ -3,7 +3,7 @@
     "redirects":[
         {
         "source": "/",
-        "destination": "https://tanishq.me"
+        "destination": "https://github.com/tanishq-soni/short-urls"
         },
         {
         "source": "/twitter",
