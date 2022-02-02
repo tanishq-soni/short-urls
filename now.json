@@ -12,6 +12,10 @@
         {
         "source": "/hackclub",
         "destination": "https://hackclub.com"
-        }
+        }/*,
+        {
+        "source": "/slug",
+        "destination": "long_url"
+        }*/
     ]
 }
