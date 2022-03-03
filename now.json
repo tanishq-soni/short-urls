@@ -12,6 +12,11 @@
         {
         "source": "/hackclub",
         "destination": "https://hackclub.com"
+        },
+        {
+        "source": "/important",
+        "destination": "https://important-info.vercel.app/important.mp4"
         }
+        
     ]
 }
